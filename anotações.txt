@@ -1,0 +1,10 @@
+Por que utilizar Docker?
+    - Normalmente as máquinas e servidores locais custam muito caro, sendo usado o máximo possível dele
+    - Uma aplicação busca ser muito confiável
+    - Docker vem como complemento à máquina virtual
+    - O contâiner vai separar as aplicações, diferente da máquina virtual que vai configurar tudo em todas as máquinas
+    - O Docker pode reaproveitar toda a infra 
+
+Sempre que um docker desktop esta rodando ele roda o linux na máquina
+
+
