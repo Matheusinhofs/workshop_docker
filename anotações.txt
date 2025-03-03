@@ -13,3 +13,8 @@
 
 - 3 conceitos principais:
     - Dockerfile: código do docker 
+    - Imagem: pasta linux com o src + python instalado 
+
+
+- Dockerhub python -> automatização a criação de ambiente no python, não precisa instalar versão de python nem pyenv,...
+
