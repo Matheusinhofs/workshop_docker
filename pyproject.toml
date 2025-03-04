@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "workshop-docker"
+name = "workshop_docker"
 version = "0.1.0"
 description = ""
 authors = ["Matheusinhofs <matheusfs117@gmail.com>"]
